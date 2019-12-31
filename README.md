@@ -4,6 +4,12 @@ A Python library
 
 Seagull includes a module for calculating primes
 
+---
+
+Member of the **farallons** collection of libraries
+
+---
+
 - Use Python 3
 
       virtualenv -p python3 venv
